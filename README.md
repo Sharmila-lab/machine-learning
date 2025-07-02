@@ -48,7 +48,7 @@ This project implements a machine learning model to predict **heart rate** based
 2. Train the model:
 
    ```bash
-   python train_model.py
+   python main.py
    ```
 3. Predict on new data:
 
